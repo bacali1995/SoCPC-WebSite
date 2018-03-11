@@ -1,0 +1,98 @@
+html, body {
+	height: 100%;
+}
+
+html {
+	/*background-image: url('../images/chris-lawton-154388-unsplash.jpg');*/
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+body {
+	/*background-color: rgba(44,62,80 , 0.6 );*/
+	background-image: url('../images/pattern.png');
+	background-position: center;
+	background-repeat: repeat;
+	font-family: 'Raleway', 'Arial', sans-serif;
+}
+
+.countdown-container {
+	position: absolute;
+	top: 46%;
+}
+
+
+.clock-item .inner {
+	height: 0px;
+	padding-bottom: 96%;
+	position: relative;		width: 84%;
+}
+
+.clock-canvas {
+	background-color: rgba(255, 255, 255, .1);
+	border-radius: 50%;
+	height: 0px;
+	padding-bottom: 100%;
+}
+
+count{
+    position: relative;
+}
+.text {
+	color: #fff;	
+	font-size: 10px;
+	font-weight: bold;	
+	margin-top: -80px;
+	position: absolute;
+	top: 60%;
+	text-align: center;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+	width: 100%;
+}
+
+.text .val {
+	font-size: 30px;
+}
+
+.text .type-time {
+	font-size: 20px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.clock-item {
+		margin-bottom: 30px;
+	}
+}
+
+@media (max-width: 767px) {
+	.clock-item {
+		margin: 0px 20px 20px 20px;
+	}
+}
+/*@media only screen and (max-width: 800px) {
+    .clock-item .inner {
+        height: 0px;
+        padding-bottom: 96%;
+        position: relative;
+        width: 20%;
+    }
+    .text {
+        color: #fff;
+        font-size: 3px;
+        font-weight: bold;
+        margin-top: 20px;
+        position: absolute;
+        top: 50%;
+        text-align: center;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+        width: 100%;
+    }
+    .text .val {
+        font-size: 10px;
+    }
+    .text .type-time {
+        font-size: 5px;
+    }
+}*/
+
