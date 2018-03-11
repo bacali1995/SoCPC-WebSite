@@ -19,7 +19,8 @@ body {
 
 .countdown-container {
 	position: absolute;
-	top: 46%;
+	top: 41%;
+	vertical-align: center;
 }
 
 
@@ -95,4 +96,19 @@ count{
         font-size: 5px;
     }
 }*/
+
+.cta{
+	padding: 10px 20px;
+	background: #b22a1c;
+	color: #fff;
+	display: -moz-inline-stack;
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-ms-border-radius: 30px;
+	border-radius: 30px;
+}
+
 
