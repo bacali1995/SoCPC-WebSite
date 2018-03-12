@@ -3,19 +3,14 @@ html, body {
 }
 
 html {
-	/*background-image: url('../images/chris-lawton-154388-unsplash.jpg');*/
-	background-position: center center;
-	background-repeat: no-repeat;
+	background: no-repeat center center;
 	background-size: contain;
 }
 
-body {
-	/*background-color: rgba(44,62,80 , 0.6 );*/
-	background-image: url('../images/pattern.png');
-	background-position: center;
-	background-repeat: repeat;
-	font-family: 'Raleway', 'Arial', sans-serif;
-}
+/*body {*/
+	/*background: url('../images/pattern.png') repeat center;*/
+	/*font-family: 'Raleway', 'Arial', sans-serif;*/
+/*}*/
 
 .countdown-container {
 	position: relative;
@@ -25,7 +20,7 @@ body {
 
 
 .clock-item .inner {
-	height: 0px;
+	height: 0;
 	padding-bottom: 96%;
 	position: relative;
 	width: 84%;
@@ -34,7 +29,7 @@ body {
 .clock-canvas {
 	background-color: #f9f2f4;
 	border-radius: 50%;
-	height: 0px;
+	height: 0;
 	padding-bottom: 100%;
 }
 
@@ -91,7 +86,7 @@ body {
 		color: #000000;
 		font-size: 5px;
 		font-weight: bold;
-		margin-top: 0px;
+		margin-top: 0;
 		position: absolute;
 		top: 35%;
 		text-align: center;
@@ -105,11 +100,11 @@ body {
 		display: block;
 		height: auto;
 	}
-	.fh5co-slider container{
+	.fh5co-slider .container {
 		position: relative;
 	}
 	.clock-item .inner {
-		height: 0px;
+		height: 0;
 		position: relative;
 		width: 30%;
 		padding-top: 3%;
@@ -123,31 +118,6 @@ body {
 		display: none;
 	}
 }
-/*@media only screen and (max-width: 800px) {
-    .clock-item .inner {
-        height: 0px;
-        padding-bottom: 96%;
-        position: relative;
-        width: 20%;
-    }
-    .text {
-        color: #fff;
-        font-size: 3px;
-        font-weight: bold;
-        margin-top: 20px;
-        position: absolute;
-        top: 50%;
-        text-align: center;
-        text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
-        width: 100%;
-    }
-    .text .val {
-        font-size: 10px;
-    }
-    .text .type-time {
-        font-size: 5px;
-    }
-}*/
 
 .cta{
 	padding: 10px 20px;
