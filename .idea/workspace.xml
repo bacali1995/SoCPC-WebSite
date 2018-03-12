@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebeda46e-1bef-409a-bc9b-0ab62fcb6eb6" name="Default" comment="V0.2">
+    <list default="true" id="ebeda46e-1bef-409a-bc9b-0ab62fcb6eb6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change beforePath="$PROJECT_DIR$/css/countdowncube.css" afterPath="$PROJECT_DIR$/css/countdowncube.css" />
-      <change beforePath="$PROJECT_DIR$/css/demo.css" afterPath="$PROJECT_DIR$/css/demo.css" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/countdowncube.jquery.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/countdowncube.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/countdowncube.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.final-countdown.js" afterPath="$PROJECT_DIR$/js/jquery.final-countdown.js" />
-      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
-      <change beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
-      <change beforePath="$PROJECT_DIR$/rules.html" afterPath="$PROJECT_DIR$/rules.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -445,7 +431,7 @@
       <workItem from="1520694900071" duration="1145000" />
       <workItem from="1520703030119" duration="1848000" />
       <workItem from="1520711748607" duration="27079000" />
-      <workItem from="1520850474287" duration="11896000" />
+      <workItem from="1520850474287" duration="11927000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1520546395449</created>
@@ -510,11 +496,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520777191964</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="V0.3">
+      <created>1520872691938</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1520872691938</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83019000" />
+    <option name="totallyTimeSpent" value="83050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -564,7 +557,8 @@
     <MESSAGE value="V0.0" />
     <MESSAGE value="V0.1" />
     <MESSAGE value="V0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="V0.2" />
+    <MESSAGE value="V0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -749,6 +743,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
