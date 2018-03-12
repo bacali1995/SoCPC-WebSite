@@ -41,11 +41,12 @@
 
 <div id="wrap">
 
-    <div id="fh5co-page">
+    <div id="fh5co-page" >
         <header id="fh5co-header" role="banner">
             <div class="container">
+                <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle dark"><i></i></a>
                 <div id="fh5co-logo"><a href="index.html"><img src="images/logo.png" style="margin-top: 5px"
-                                                               height="50px" alt="Free HTML5 Website Template"></a>
+                                                               height="50px" ></a>
                 </div>
                 <nav id="fh5co-main-nav" role="navigation">
                     <ul>
@@ -74,14 +75,12 @@
 
             <div style="vertical-align: central">
                 <div class="container count">
-
-                    <img src="images/countdown.png" class="img-responsive">
                     <div class="countdown countdown-container container" style="vertical-align: middle">
                         <div class="clock row" style="vertical-align: middle">
                             <div class="clock-item clock-days countdown-time-value col-sm-6 col-md-3">
                                 <div class="wrap">
                                     <div class="inner">
-                                        <div id="canvas-days" class="clock-canvas"></div>
+                                        <div id="canvas-days" class="clock-canvas" ></div>
 
                                         <div class="text">
                                             <p class="val">0</p>
@@ -211,11 +210,10 @@
 <script type="text/javascript">
     $('document').ready(function () {
         'use strict';
-
         $('.countdown').final_countdown({
-            'start': 1520777100,
-            'end': 1522015199,
-            'now': 1520777100
+            'start': Date.parse("March 7, 2018")/1000,
+            'end': Date.parse("March 25, 2018")/1000,
+            'now': Date.now()/1000
         });
     });
 </script>
