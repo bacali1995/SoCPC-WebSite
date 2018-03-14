@@ -1,7 +1,7 @@
 <?php
 
 $email_to = "nasreddine.bacali95@gmail.com";
-$email_from = "webmaster@enisosmartchallenge.info";
+$email_from = "webmaster@socpc.info";
 $email_subject = "Contact Form submitted";
 
 if (isset($_POST['email'])) {
