@@ -26,7 +26,7 @@
     };
 
     var loaderPage = function () {
-         $(".loader").fadeOut("slow");
+         $(".loader-container").fadeOut("slow");
     };
 
     var goToTop = function () {
