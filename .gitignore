@@ -1,1 +1,4 @@
 .idea/**
+.idea/cache.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/workspace.xml
