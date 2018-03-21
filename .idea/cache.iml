@@ -9,5 +9,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="moment" level="application" />
+    <orderEntry type="library" name="moment-timezone-with-data-2012-2022" level="application" />
+    <orderEntry type="library" name="adsbygoogle" level="application" />
   </component>
 </module>
