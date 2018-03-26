@@ -314,7 +314,7 @@
         'use strict';
         $('.countdown').final_countdown({
             'start': Date.parse("March 7, 2018") / 1000,
-            'end': Date.parse(date.toDateString()) / 1000,
+            'end': Date.parse(date.toUTCString()) / 1000,
             'now': Date.now() / 1000
         });
     });
