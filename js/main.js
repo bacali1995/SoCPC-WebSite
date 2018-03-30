@@ -76,7 +76,25 @@
                 "<i class='icon-chevron-right owl-direction'></i>"
             ]
         });
+        var owl2 = $('.owl-carousel-sponsor');
 
+        owl2.owlCarousel({
+            items: 3,
+            mouseDrag: true,
+            loop: true,
+            margin: 40,
+            responsiveClass: true,
+            nav: true,
+            dots: false,
+            autoHeight: true,
+            smartSpeed: 500,
+            autoplay: true,
+            autoplayHoverPause: true,
+            navText: [
+                "<i class='icon-chevron-left owl-direction'></i>",
+                "<i class='icon-chevron-right owl-direction'></i>"
+            ]
+        });
         $(window).resize(function () {
             owl.trigger('refresh.owl.carousel');
         });
