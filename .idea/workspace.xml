@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebeda46e-1bef-409a-bc9b-0ab62fcb6eb6" name="Default" comment="V0.3">
+    <list default="true" id="ebeda46e-1bef-409a-bc9b-0ab62fcb6eb6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sponsor_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sponsor_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sponsor_2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,11 +20,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="197" column="56" selection-start-line="197" selection-start-column="56" selection-end-line="197" selection-end-column="56" />
+            <state relative-caret-position="323">
+              <caret line="195" column="125" selection-start-line="195" selection-start-column="125" selection-end-line="195" selection-end-column="125" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -225,6 +222,11 @@
               <item name="SoCPC-WebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="SoCPC-WebSite" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SoCPC-WebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoCPC-WebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -401,7 +403,7 @@
       <workItem from="1521277979690" duration="377000" />
       <workItem from="1521278458360" duration="132000" />
       <workItem from="1521465960685" duration="108000" />
-      <workItem from="1522797664313" duration="456000" />
+      <workItem from="1522797664313" duration="701000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1520546395449</created>
@@ -564,11 +566,32 @@
       <option name="project" value="LOCAL" />
       <updated>1521466037294</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="V1">
+      <created>1522798140585</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1522798140585</updated>
+    </task>
+    <task id="LOCAL-00025" summary="V1">
+      <created>1522798214570</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1522798214570</updated>
+    </task>
+    <task id="LOCAL-00026" summary="V1">
+      <created>1522798297818</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1522798297818</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93556000" />
+    <option name="totallyTimeSpent" value="93801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -622,7 +645,8 @@
     <MESSAGE value="V1.1" />
     <MESSAGE value="V1.2" />
     <MESSAGE value="V1.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1.3" />
+    <MESSAGE value="V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -876,11 +900,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="197" column="56" selection-start-line="197" selection-start-column="56" selection-end-line="197" selection-end-column="56" />
+        <state relative-caret-position="323">
+          <caret line="195" column="125" selection-start-line="195" selection-start-column="125" selection-end-line="195" selection-end-column="125" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
