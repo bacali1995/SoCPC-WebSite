@@ -66,7 +66,7 @@
             margin: 0,
             responsiveClass: true,
             nav: true,
-            dots: true,
+            dots: false,
             autoHeight: true,
             smartSpeed: 500,
             autoplay: true,
