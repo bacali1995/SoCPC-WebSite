@@ -1,2 +1,2 @@
 # SoCPC-WebSite
-The official website of the [Sousse Collegiate Programming Contest - SoCPC](http://www.socpc.info). 
+The official website of the [Sousse Collegiate Programming Contest - SoCPC](https://socpc.info). 
